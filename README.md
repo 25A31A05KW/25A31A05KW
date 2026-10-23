@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building foundational ETL scripts, SQL projects, and learning cloud core services<br>👯 I’m looking to collaborate on beginner-friendly open-source data projects and study groups<br>🤝 I’m looking for help with best practices for data modeling and deploying my first cloud pipeline<br>🌱 I’m currently learning Advanced SQL, Python for data manipulation (Pandas), and Cloud fundamentals (AWS/GCP)<br>💬 Ask me about SQL basics, Python scripting, Data Structures & Algorithms, or C/C++<br>⚡ Fun fact When I'm not writing queries or studying cloud architectures, I write Telugu poetry under the pen name ఇట్లు మీ కవి ✍️
+🔭 I’m currently working on building foundational ETL scripts, SQL projects, and learning cloud core services<br>👯 I’m looking to collaborate on beginner-friendly open-source data projects and study groups<br>🤝 I’m looking for help with best practices for data modeling and deploying my first cloud pipeline<br>🌱 I’m currently learning Advanced SQL, Python, and Cloud fundamentals (AWS/GCP)<br>💬 Ask me about SQL basics, Python scripting, Data Structures & Algorithms <br>⚡ Fun fact When I'm not writing queries or studying cloud architectures, I write Telugu poetry under the pen name ఇట్లు మీ కవి ✍️
 
 
 ## 🌐 Socials:
