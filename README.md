@@ -21,7 +21,7 @@ Achievement:
 
 - Finalist – Indian Impact Summit 2026, organised by All India Debating League and NexusIdea on Unstop.
 
-I believe in learning by building, experimenting, and consistently improving my technical skills., I write Telugu poetry under the pen name itlu_mee_kavi ✍️
+I believe in learning by building, experimenting, and consistently improving my technical skills.  I write Telugu poetry under the pen name itlu_mee_kavi ✍️
 
 
 ## 🌐 Socials:
